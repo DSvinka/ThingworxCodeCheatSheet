@@ -1,2 +1,3 @@
 # ThingworxCodeCheatSheet
-Шпаргалка по программированию в Thingworx
+Шпаргалка по программированию в Thingworx  
+Для КПК МИРЭА
